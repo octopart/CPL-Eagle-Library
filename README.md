@@ -1,4 +1,4 @@
-Octopart-CPL-Eagle-Library
+CPL-Eagle-Library
 ==========================
 
 Eagle v6 symbols and footprints for the [Common Parts Library](http://octopart.com/common-parts-library).
